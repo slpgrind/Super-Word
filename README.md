@@ -1,4 +1,4 @@
-### Super Word
+# Super Word
 ## Inspiration
 Speech and language delays and disorders affect 1 in 12 children in the United States [3] and are considered the “most common disability of childhood, least diagnosed by primary care physicians.” [4] Furthermore, delays in early identification of these conditions can result in delays in treatment, which is crucial for children to develop communication and literacy skills for school readiness and behavioral and mental health.
 
